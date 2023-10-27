@@ -16,3 +16,6 @@ test.db
 
 # Ignore venv directory and its contents
 venv/
+
+#I guess ignore cache subfolders
+__pycache__/
