@@ -18,4 +18,4 @@ test.db
 venv/
 
 #I guess ignore cache subfolders
-__pycache__/
+**/__pycache__/
